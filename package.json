@@ -2,7 +2,7 @@
   "name": "documentmanager",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "./electron/main.js",
   "scripts": {
     "start": "electron .",
     "build": "webpack",
